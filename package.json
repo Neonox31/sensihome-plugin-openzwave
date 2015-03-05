@@ -1,0 +1,11 @@
+{
+  "name": "sensihome-plugin-openzwave",
+  "version": "0.0.0",
+  "description": "OpenZwave plugin for sensihome application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WEBER Logan",
+  "license": "BSD-2-Clause"
+}
