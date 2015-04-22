@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "WEBER Logan",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "nconf": "~0.7.1",
+    "openzwave": "0.0.33",
+    "joi": "~6.2.0",
+    "boom": "~2.7.1"
+  }
 }
